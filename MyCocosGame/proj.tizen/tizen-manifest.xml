@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.0" package="jp.ac.tca,MyCocosGame" version="1.0.0">
+    <ui-application appid="jp.ac.tca,MyCocosGame" exec="hellocpp" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>MyCocosGame</label>
+        <icon>MyCocosGame.png</icon>
+    </ui-application>
+</manifest>
